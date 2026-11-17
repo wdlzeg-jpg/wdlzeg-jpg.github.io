@@ -1,0 +1,1 @@
+import{i as e}from"./framework-BgSIrAUN.js";var t=e();function n(){return(0,t.jsx)(`button`,{className:`print-button`,type:`button`,onClick:()=>window.print(),children:`打印 / 保存为 PDF`})}export{n as PrintButton};
